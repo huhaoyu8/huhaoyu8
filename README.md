@@ -1,3 +1,18 @@
+# Hi there 👋
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Glad 2 meet U}&fontSize=90&fontAlign=50&fontAlignY=30&desc={huhaoyu555@gmail.com}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=huhaoyu&theme=light&show_icons=true" width="700">
+  </a>
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/huhaoyu8">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=huhaoyu&layout=compact">
+  </a>
+</p>
+
+
+
+## 📫  huhaoyu555@gmail.com
