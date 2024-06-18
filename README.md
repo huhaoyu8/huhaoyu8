@@ -27,10 +27,4 @@
     <img src="https://skillicons.dev/icons?i=latex,php,mysql,redis,docker&theme=light" width="550" />
 </p>
 
-<!-- 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=latex,php,mysql,redis,docker&theme=light" width="550" />
-</p>
--->
-
 ## 📫  huhaoyu555@gmail.com
