@@ -17,20 +17,8 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=huhaoyu&layout=compact">
 </p>
 
-
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,py,matlab,vue,go,linux&theme=light" width="800" />
+    <img src="https://skillicons.dev/icons?i=matlab,redis,docker,vue,go,linux&theme=light" width="600" />
 </p>
-
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=latex,php,mysql,redis,docker&theme=light" width="550" />
-</p>
-
-<!-- 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=latex,php,mysql,redis,docker&theme=light" width="550" />
-</p>
--->
 
 ## 📫  huhaoyu555@gmail.com
