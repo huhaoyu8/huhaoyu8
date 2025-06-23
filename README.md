@@ -11,6 +11,8 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=huhaoyu&layout=compact">
 </p>
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=matlab,redis,docker,vue,go,linux&theme=light" width="600" />
 </p>
